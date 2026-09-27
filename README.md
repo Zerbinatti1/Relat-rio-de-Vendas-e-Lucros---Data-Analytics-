@@ -1,4 +1,5 @@
 📊 Relatório de Vendas e Lucros
+
 🎯 Objetivo
 
 Neste projeto eu montei um relatório interativo no Power BI usando uma planilha de vendas pronta (Financial Sample). O foco não foi em criar um modelo de dados complicado, e sim em deixar o relatório fácil de navegar: várias páginas conectadas, gráficos que trocam de tipo com um clique e alguns cálculos pra organizar e destacar as informações.
